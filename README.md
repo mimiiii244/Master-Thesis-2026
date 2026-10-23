@@ -1,4 +1,4 @@
-# Master-Thesis-2026----------------------------------------------------------------------
+# Master-Thesis-2026
 
 The zip consists of 12 sub-folders ordered from 01 to 12 containing the main Rcodes and any frozen data, file dependencies and basic replication codes (used when I had to check the codes).  
 
