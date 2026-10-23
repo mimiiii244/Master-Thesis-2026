@@ -1,0 +1,4 @@
+"sample","n","k","start","end"
+"pre_ai_returns.csv",1237,90,"2018-01-03","2022-11-30"
+"post_ai_returns.csv",653,94,"2023-09-18","2026-04-24"
+"ai_energy_lasso_100_daily_returns.csv",654,94,"2023-09-15","2026-04-24"
